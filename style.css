@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+.first-section {
+    background-image: url(the\ sufferings.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    opacity: 0.8;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.top-heading {
+    text-align: center;
+    color: white;
+    padding-bottom: 5%;
+}
