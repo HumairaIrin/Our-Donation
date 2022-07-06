@@ -7,7 +7,7 @@ body {
 }
 
 section {
-    margin-bottom: 90px;
+    margin-bottom: 50px;
 }
 
 .first-section {
@@ -105,6 +105,7 @@ p {
 #medicine {
     background-color: rgb(232, 250, 250);
 
+
 }
 
 #shelter {
@@ -123,14 +124,52 @@ p {
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 33px;
 }
 
 .membership-button {
-    background-image: linear-gradient(rgb(100, 173, 100), rgb(207, 207, 99));
+    background-image: linear-gradient(rgb(132, 209, 132), rgb(230, 230, 115));
     padding: 20px 10px;
-    font-weight: 900;
+    font-weight: bold;
+    color: rgb(12, 12, 78);
     border: none;
     border-radius: 5%;
     margin-left: 20px;
+}
+
+.volunteer {
+    display: flex;
+    width: 30% 30%;
+    padding: 5% 5%;
+}
+
+.volunteer-details {
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.contact-button {
+    background-image: linear-gradient(rgb(175, 90, 192), rgb(222, 158, 228));
+    padding: 20px 10px;
+    font-weight: bold;
+    color: rgb(12, 12, 78);
+    border: none;
+    border-radius: 5%;
+    margin-left: 20px;
+}
+
+.updates {
+    text-align: center;
+}
+
+.color-box {
+    background-color: rgba(255, 217, 217, 0.5);
+    width: 60%;
+    height: 150px;
+    margin-left: 20%;
+}
+
+.updates-button {
+    margin-left: 50%;
+    margin-top: 30px;
 }
